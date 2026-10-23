@@ -1,0 +1,2 @@
+PROTOCOL NUMBER,AE_STATUS,DESCRIPTION OF ADVERSE EFFECT,DATE OF ONSET,SEVERITY,ACTION TAKEN,OUTCOME,MEDICINE GIVEN,MEDICINE START DATE,MEDICINE END DATE,FREQUENCY
+1234,YES,High fever came,25/11/2026,Mild,"Medicine given, Trial of this medicine is suspended for a while",Resolved,"Paracetamol 650, Digene",25/10/2026,30/10/2026,"1 tablet after food, daily 3 times"
